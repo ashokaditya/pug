@@ -1,5 +1,6 @@
 .DS_Store
 .idea
+.vscode
 testing
 node_modules
 lib-cov
@@ -10,3 +11,4 @@ npm-debug.log
 **/test/temp
 .release.json
 lerna-debug.log
+package-lock.json
